@@ -11,7 +11,7 @@ This Include allows you to create TextDraw Notifications
 Simply install to your project:
 
 ```bash
-sampctl install ThePez/td-notification
+sampctl install Dexedus-Dev/td-notification-V.Dexedus
 ```
 
 Include in your code and begin using the library:
